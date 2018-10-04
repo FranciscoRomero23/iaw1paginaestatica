@@ -5,7 +5,7 @@ date:   2018-09-27 13:43:52 +0200
 categories: doctorwho doctores serie
 ---
 
-### War Doctor
+### Doctor Guerrero
 
 ![War Doctor](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/05/596466-doctor-who-todos-doctores.jpg)
 
