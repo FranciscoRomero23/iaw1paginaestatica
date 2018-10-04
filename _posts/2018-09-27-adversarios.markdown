@@ -9,7 +9,7 @@ Cuando Sydney Newman encargó la serie, especificó que no quería perpetuar el 
 
 Algunos adversarios notables del Doctor son Autones, los Cybermen, los Sontaran, los Demonios Marinos, los Guerreros de Hielo, los Yetis, los Silurians, los ángeles llorosos, los Slitheens y el Amo. Sin embargo de todos los monstruos y villanos, los más representativos de la serie son los Daleks.
 
-### Daleks
+### Los Daleks
 
 ![Daleks](https://ichef.bbci.co.uk/images/ic/640xn/p02wn0zt.jpg)
 
@@ -19,7 +19,7 @@ En varias historias se dice que su evolución temporal ha ocasionado una toma de
 
 Son popularmente conocidos por su muletilla «¡Exterminar!» y son una referencia fundamental en la cultura popular británica, apareciendo incluso en varios diccionarios. 
 
-### Cybermen
+### Los Cybermen
 
 ![Cybermen](https://vignette.wikia.nocookie.net/tardis/images/1/1e/Cybermen_formation_Doomsday.jpg/revision/latest?cb=20131112004706)
 
@@ -43,7 +43,7 @@ El Amo fue llamado "mequetrefe" y "sin imaginación" por el Tercer Doctor, "quin
 
 La locura perversa del Amo es debida al menos parcialmente al resultado de una enfermedad provocada por un sonido de tambores sin cesar implantados en su cabeza de forma retroactiva por los Señores del Tiempo el último día de la Última Gran Guerra del Tiempo para poder llevar a cabo sus objetivos. 
 
-### Ángeles Llorosos
+### Los Ángeles Llorosos
 
 ![Angeles Llorosos](https://vignette.wikia.nocookie.net/doctorwho/images/6/6a/Blink_main.jpg/revision/latest?cb=20140722105056&path-prefix=es)
 
@@ -51,7 +51,7 @@ Los Ángeles Llorosos son estatuas de piedra humanoides con alas solamente cuand
 
 Llamados así porque al poseer unas características únicas les era necesario cubrirse el rostro para evitar quedar convertidos en piedra para la eternidad. Esto podía interpretarse como que estaban llorando. Eran conocidos por ser psicópatas asesinos, matando a sus víctimas "muy bien", poniéndolos en el pasado antes de que nacieran y dejar que ellos viviesen hasta la muerte. Esto les permitió vivir de la energía del tiempo restante de vida de la víctima. Sin embargo, esta energía potencial palidecía en comparación con una fuente de energía alternativa para alimentarse, se sabe que los Ángeles matan por otros medios, como romperle el cuello a sus víctimas. 
 
-### Sontaran
+### Los Sontaran
 
 ![Sontaran](https://vignette.wikia.nocookie.net/doctorwho/images/f/fc/Sontarans-series-5.jpg/revision/latest/scale-to-width-down/1000?cb=20140921180948&path-prefix=es)
 
