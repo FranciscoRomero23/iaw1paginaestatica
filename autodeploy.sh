@@ -6,4 +6,4 @@ git add *
 git commit -m "Commit"
 git push
 
-surge /home/vagrant/iaw1paginaestatica/_site
+surge /home/vagrant/iaw1paginaestatica/_site --domain aloneinthetardis.surge.sh
