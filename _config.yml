@@ -9,7 +9,7 @@
 title: Alone in the Tardis
 email: 4afromero@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Página web dedicada a la serie de ciencia ficción Doctor Who.
+ Página web dedicada a la serie de ciencia ficción Doctor Who.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://aloneinthetardis.com" # the base hostname & protocol for your site
 twitter_username: reo_de_muerte
